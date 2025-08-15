@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/mohamedabdelazi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/201272970560" target="_blank">
+  <a href="https://wa.me/201272970562" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="mailto:mohamed.ashraf98r@gmail.com" target="_blank">
